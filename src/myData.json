@@ -1,0 +1,75 @@
+{
+  "Name": "Mahalakshmi L",
+  "Aim": "Looking for Developer role",
+  "Ojective": "Aim to be associated with a progressive organization that gives me scope to update my knowledge and skills in accordance with latest trends and be a part of a team that dynamically works towards the organization and gains satisfaction thereof.",
+  "Education": [
+    {
+      "Qualification": "BE",
+      "School": "The Oxford College of Engineering",
+      "Grade": "72%",
+      "Year": 2017
+    },
+
+    {
+      "Qualification": "PUC",
+      "School": "Vishwa Chethana PU college",
+      "Grade": "84%",
+      "Year": 2013
+    },
+    {
+      "Qualification": "SSLC",
+      "School": "Vidhatha High School",
+      "Grade": "80%",
+      "Year": 2011
+    }
+  ],
+  "Project_Details": [
+    {
+      "Name": "Student Result Management System",
+      "Description": "In this project we can enter all studets Data like Student ID, Student Name, their Marks, their Year of Studies, their Attendance.Using this platform, a student can search for result using Student ID and also can view score board of an entire course.Along with it they can see score board of the students where the student’s maximum marks and maximum attendance percentage will be highlighted."
+    },
+    {
+      "Name": "A Tourist Guide of famous Places in India",
+      "Description": "This is a minor project on travel guide of the famous places around India. in this project we have around 10 different states of India in home page. when the user selects any state, they will see the list of tourist places within that state and also information about that place and any nearby places to visit around it."
+    },
+
+    {
+      "Name": "Support System for Mentoring ",
+      "Description": "In this project the students are categorized based on internal and external marks. It finds the remedial student, cream student, dropout student and critical student."
+    },
+    {
+      "Name": "Lathe Machine",
+      "Description": "This project shows the basic functions of ‘lathe machine’. Lathe motions are implemented by using Keyboard in CODE BLOCKS software."
+    }
+  ],
+  "Certifications": [
+    "Full Stack Web Development from Verzeo,2022-23",
+    "Certificate for completion of C training by Spoken Tutorial,2017"
+  ],
+  "Strengths": [
+    "Good Communicator and Quick learner",
+    "Self-Motivating and Positive attitude.",
+    "Flexibility and Leadership"
+  ],
+  "photo": "./images/photo.png",
+  "Email": "mailto:lmahalakshmi191095@gmail.com",
+  "linkin": "https://www.linkedin.com/in/mahalakshmi-l-445b68118/",
+  "phoneno": 8618072993,
+  "gitUb": "https://github.com/MahaLakshmi-L-Tech/",
+  "website": "https://my-resume-8d370.firebaseapp.com/",
+
+  "Technical_Skills": [
+    { "name": "React JS", "value": 60 },
+    { "name": "HTML/CSS", "value": 80 },
+    { "name": "Java Script", "value": 60 },
+
+    { "name": "Python", "value": 50 },
+    { "name": "SQl", "value": 50 },
+    { "name": "C", "value": 60 }
+  ],
+  "Personal_Details": {
+    "Date_of_Birth": "19th October 1995",
+    "Languages": "English, Kannada & Telugu",
+    "Hobbies": "Listening to Music, Craft, playing Carrom, Cooking"
+  }
+}

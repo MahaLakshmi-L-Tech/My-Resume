@@ -1,0 +1,301 @@
+@media screen and (max-width: 600px) {
+  body {
+    background-color: white;
+    .resumeContainer {
+      display: flex;
+      justify-content: center;
+      background-color: rgb(246, 245, 241);
+      width: 100%;
+    }
+    .pageSize {
+      svg {
+        margin-right: 10px;
+      }
+      padding: 10px;
+
+      .resume {
+        .photoEdit {
+          display: flex;
+          justify-content: center;
+          height: 200px;
+          .photoEditimg {
+            width: 65%;
+            height: 100%;
+            border-radius: 50%;
+            align-items: center;
+            display: flex;
+          }
+        }
+        .myDetail {
+          text-align: center;
+          .textAim {
+            color: blue;
+          }
+          h1 {
+            margin-bottom: -2px;
+          }
+        }
+      }
+      .skills {
+        margin: 0 0 30px 20px;
+        padding: 0;
+        width: calc(100% - 50px);
+        li {
+          display: block;
+          position: relative;
+          background-color: rgb(2, 100, 169);
+          color: #fff;
+          margin: 10px 0;
+          transition: width 300ms ease-in-out;
+          .collapsed & {
+            width: 0 !important;
+          }
+          p {
+            padding: 10px;
+            margin: 0;
+            font-weight: bold;
+          }
+          span {
+            position: absolute;
+            right: 10px;
+            display: inline-block;
+            width: 30px;
+            top: 11px;
+            text-align: right;
+            font-weight: normal;
+            color: #fff;
+            font-size: 11px;
+          }
+        }
+      }
+      .EmailDetail {
+        margin-top: 10px;
+      }
+      .Emaillinkdin {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 200px;
+        .email,
+        .linkdin,
+        .phoneno,
+        .gitUb,
+        .website {
+          align-items: center;
+          display: flex;
+          flex-direction: row;
+        }
+        svg {
+          margin-right: 10px;
+        }
+        a {
+          text-decoration: none;
+          color: black;
+        }
+        a:click {
+          color: blue;
+        }
+      }
+      .edumargin {
+        margin-bottom: 30px;
+      }
+      .educationList {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 200px;
+      }
+      .projectTop {
+        margin-top: 15px;
+        margin-left: 30px;
+      }
+      .projectTopmargin {
+        margin-bottom: -2px;
+      }
+      .certtop {
+        margin-top: 25px;
+      }
+      .pertop {
+        h6 {
+          font-weight: normal;
+          margin: -1px;
+          font-size: 15px;
+          margin-left: 22px;
+          margin-bottom: 10px;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 610px) {
+  h1 {
+    margin-bottom: -2px;
+    margin-top: -1px;
+    /* margin-left: 5px; */
+  }
+  .resume {
+    display: flex;
+  }
+
+  .photoEdit,
+  .photoEditimg {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+  }
+  .resumeContainer {
+    background-color: black;
+  }
+
+  .pageSize {
+    display: flex;
+    flex-direction: column;
+    width: 25cm;
+    justify-content: center;
+    margin-left: 18%;
+    padding: 20px 10px 50px 10px;
+    background-color: azure;
+  }
+  .myDetail {
+    margin-left: 10px;
+  }
+  .textAim {
+    color: rgb(7, 130, 207);
+  }
+  .EmailDetail {
+    margin-top: 20px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(3, 3, 109);
+  }
+  a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+  }
+  // .email {
+  //   margin-left: 20px;
+  //   padding-top: 10px;
+  //   margin-right: 10px;
+  // }
+  // .linkdin {
+  //   margin-left: 20px;
+  //   margin-bottom: 5px;
+  // }
+  svg {
+    margin-right: 10px;
+  }
+
+  h5 {
+    font-size: 15px;
+    margin-top: -2.3px;
+  }
+  .email,
+  .linkdin,
+  .phoneno,
+  .gitUb,
+  .website {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+  }
+  .Emaillinkdin {
+    display: flex;
+    height: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .row {
+    display: flex !important;
+  }
+
+  .col {
+    display: flex;
+    width: 100%;
+  }
+  ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  h3 {
+    margin-bottom: -10px;
+  }
+  .skillDetail h3 {
+    margin-bottom: 10px;
+  }
+
+  .projectTop {
+    margin-top: 15px;
+    margin-left: 30px;
+  }
+  .strul ul {
+    display: block;
+  }
+  .certtop {
+    display: block;
+    margin-top: 15px;
+  }
+  .certtop ul {
+    display: block;
+  }
+  .perstop {
+    margin-top: 15px;
+  }
+  .pertop h3 {
+    margin-bottom: 10px;
+  }
+  .pertop h6 {
+    font-weight: normal;
+    margin: -1px;
+    font-size: 15px;
+    margin-left: 22px;
+    margin-bottom: 10px;
+  }
+
+  .skillsets {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .educationList {
+    li {
+      margin-bottom: 10px;
+    }
+    margin-bottom: 0px;
+  }
+  ////
+
+  .skills {
+    margin: 0 0 30px 20px;
+    padding: 0;
+    width: calc(100% - 50px);
+    li {
+      display: block;
+      position: relative;
+      background-color: rgb(2, 100, 169);
+      color: #fff;
+      margin: 10px 0;
+      transition: width 300ms ease-in-out;
+      .collapsed & {
+        width: 0 !important;
+      }
+      p {
+        padding: 10px;
+        margin: 0;
+        font-weight: bold;
+      }
+      span {
+        position: absolute;
+        right: 10px;
+        display: inline-block;
+        width: 30px;
+        top: 11px;
+        text-align: right;
+        font-weight: normal;
+        color: #fff;
+        font-size: 11px;
+      }
+    }
+  }
+}
