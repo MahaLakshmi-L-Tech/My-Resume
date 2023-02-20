@@ -1,6 +1,6 @@
 {
   "Name": "Mahalakshmi L",
-  "Aim": "Looking for Developer role",
+  "Aim": "Looking for React Developer role",
   "Ojective": "Aim to be associated with a progressive organization that gives me scope to update my knowledge and skills in accordance with latest trends and be a part of a team that dynamically works towards the organization and gains satisfaction thereof.",
   "Education": [
     {
@@ -50,8 +50,9 @@
     }
   ],
   "Certifications": [
-    "Full Stack Web Development from Verzeo,2022-23",
-    "Certificate for completion of C training by Spoken Tutorial,2017"
+    "Full Stack Web Development from Verzeo, 2023",
+    "CSS certification from HackerRank, 2023",
+    "Certificate for completion of C training by Spoken Tutorial, 2017"
   ],
   "Strengths": [
     "Good Communicator and Quick learner",
@@ -67,9 +68,10 @@
 
   "Technical_Skills": [
     { "name": "React JS", "value": 60 },
-    { "name": "HTML/CSS", "value": 80 },
     { "name": "Java Script", "value": 60 },
-
+    { "name": "Redux", "value": 60 },
+    { "name": "HTML/CSS", "value": 80 },
+    { "name": "Bootstrap", "value": 60 },
     { "name": "Python", "value": 50 },
     { "name": "SQl", "value": 50 },
     { "name": "C", "value": 60 }
