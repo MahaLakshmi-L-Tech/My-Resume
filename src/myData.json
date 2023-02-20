@@ -25,12 +25,19 @@
   ],
   "Project_Details": [
     {
+      "Name": "Blogs",
+      "Description": "In this project a user can see the posts details using User Name along with its posts comments.",
+      "Languagesused": "ReactJs, JavaScript, HTML/CSS"
+    },
+    {
       "Name": "Student Result Management System",
-      "Description": "In this project we can enter all studets Data like Student ID, Student Name, their Marks, their Year of Studies, their Attendance.Using this platform, a student can search for result using Student ID and also can view score board of an entire course.Along with it they can see score board of the students where the student’s maximum marks and maximum attendance percentage will be highlighted."
+      "Description": "Using this platform, a student can search for result using Student ID and also can view score board of an entire course.Along with it they can see score board of the students where the student’s maximum marks and maximum attendance percentage will be highlighted.",
+      "Languagesused": "JavaScript, HTML/CSS, JSON, Bootstrap"
     },
     {
       "Name": "A Tourist Guide of famous Places in India",
-      "Description": "This is a minor project on travel guide of the famous places around India. in this project we have around 10 different states of India in home page. when the user selects any state, they will see the list of tourist places within that state and also information about that place and any nearby places to visit around it."
+      "Description": "This is a minor project on travel guide of the famous places around India. in this project we have around 10 different states of India in home page. when the user selects any state, they will see the list of tourist places within that state and also information about that place and any nearby places to visit around it.",
+      "Languagesused": "JavaScript, HTML/CSS, JSON, Bootstrap"
     },
 
     {

@@ -1,5 +1,5 @@
 import React, { PureComponent } from "react";
-import Photo from "./images/photo.png";
+import Photo from "./images/photo.jpeg";
 
 class Resume extends PureComponent {
   render() {
