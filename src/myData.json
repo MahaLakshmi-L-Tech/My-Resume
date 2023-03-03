@@ -25,6 +25,11 @@
   ],
   "Project_Details": [
     {
+      "Name": "RegionsInfo",
+      "Description": "This is a map interface Project. In this platform User can login and view the regions information like total area , total population, currency , timezone and other detials. Using this platform user can Zoom in and Zoom out the map as they need and see entire globe.",
+      "Languagesused": "ReactJs, Redux, JavaScript, HTML/CSS, Ant Design 5.0, mapbox, SCSS, JSON"
+    },
+    {
       "Name": "Blogs",
       "Description": "In this project a user can see the posts details using User Name along with its posts comments.",
       "Languagesused": "ReactJs, JavaScript, HTML/CSS"
